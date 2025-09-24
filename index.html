@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <title>Rick and Morty Search</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form class="search-form">
+        <input type="text" class="inputSearch" placeholder="Search" />
+        <button class="search" type="submit">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+        <button type="reset"><b>RESET</b></button>
+      </form>
+
+      <!-- Template card, akan di-clone -->
+      <div class="card" style="display: none">
+        <img src="" alt="" />
+        <p></p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

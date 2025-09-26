@@ -1,4 +1,4 @@
-<img width="1292" height="757" alt="image" src="https://github.com/user-attachments/assets/ce52f15a-789d-4ca5-9fd4-ccb4639e99b4" />
+<img width="1273" height="756" alt="image" src="https://github.com/user-attachments/assets/eb4de235-f1f8-4ecd-bad7-cc7ab90cc5d8" />
 
 
 tampilan search rick and morty cartoon terbaru
